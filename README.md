@@ -1,9 +1,12 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
+
 <h1 align="center">Hi 👋, I'm Arts</h1>
-<h3 align="center">Modern developer</h3>
+<h3 align="center">MERN developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souledspirit&label=Profile%20views&color=0e75b6&style=flat" alt="souledspirit" /> </p>
-
-- 🔭 I’m currently working on **bionite-MERN stack**
+<img align="right" alt="Coding" width="400" src="68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966"/>
+- 🔭 I’m currently working on **MERN stack**
 
 - 📫 How to reach me **arts9161@gmail.com**
 
