@@ -23,3 +23,5 @@
 
 ## My GitHub Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=souledspirit&theme=dark&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=souledspirit&theme=dark&hide_border=true)
