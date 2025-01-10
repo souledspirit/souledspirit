@@ -31,4 +31,4 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=souledspirit&type=png" alt="GitHub Streak" /></a>
 
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=souledspirit" alt="GitHub Streak" /></a>
+<p><img align="center" src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=souledspirit" alt="GitHub Streak" /></p>
