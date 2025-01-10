@@ -22,3 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souledspirit&show_icons=true&locale=en" alt="souledspirit" /></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=souledspirit)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=souledspirit" alt="GitHub Streak" /></a>
