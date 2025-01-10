@@ -23,3 +23,5 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=souledspirit)](https://git.io/streak-stats)
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=souledspirit" alt="GitHub Streak" /></a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=souledspirit&type=png)](https://git.io/streak-stats)
