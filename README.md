@@ -19,5 +19,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souledspirit&show_icons=true&locale=en&layout=compact" alt="souledspirit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souledspirit&show_icons=true&locale=en" alt="souledspirit" /></p>
+
 
